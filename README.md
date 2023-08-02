@@ -11,4 +11,4 @@
     - Live Server
 
 ## Ref.
-gitignore
+.gitignore
