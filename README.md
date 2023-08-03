@@ -12,7 +12,16 @@
 
 ## TODO
 - [X] 헤더완성
-- [] 나머지?
+- [X] 메인
+- [] 섹션
+    - [] About Me
+    - [] What I Do
+    - [] Background
+    - [] PortFolio
+    - [] Contact With Me
 
 ## Ref.
-.gitignore
+
+-[코딩 자율학습]()
+-[Font Awesome](https://fontawesome.com/)
+-[Google Fonts](https://fonts.google.com/)
